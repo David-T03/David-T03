@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Software Developer | Informática Empresarial</h3>
 
 <p align="center">
-  Desarrollador de software enfocado en construir soluciones web escalables, arquitecturas limpias y APIs RESTful. Co-fundador en <a href="https://atenix.net">Atenix</a>, donde desarrollo plataformas comerciales, sistemas de gestión y aplicaciones a medida.
+  Desarrollador de software enfocado en construir soluciones web escalables, arquitecturas limpias y APIs RESTful.
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 
 ### 🛠️ Stack Tecnológico
 
-* **Backend:** Java (Spring Boot, JPA), C# (.NET / ASP.NET Core Web API), Node.js, PHP (Laravel)
+* **Backend:** Java (Spring Boot, JPA), C# (.NET / ASP.NET Core Web API), Node.js, Python
 * **Frontend:** React, Angular, JavaScript (ES6+), HTML5, CSS3, WPF (MVVM)
-* **Bases de Datos:** SQL Server, MySQL, PostgreSQL
-* **Cloud & DevOps:** Oracle Cloud Infrastructure (OCI), Terraform, Docker, Git, GitHub Pages
+* **Bases de Datos:** SQL Server, MySQL
+* **Cloud & DevOps:** Oracle Cloud Infrastructure (OCI), Terraform, Docker, Git
 
 ---
 
